@@ -72,7 +72,7 @@ In [29]: plt.show()
 
 We will get the following trace, after zooming into a particular region.
 
-![ABI trace](./ABI_trace_homemade.png)
+![ABI trace](/wiki/ABI_trace_homemade.png)
 
 Discussion
 ----------
